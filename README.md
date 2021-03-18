@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rogerwindberg
+- 👀 I’m interested in JavaScript and Node.JS
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Chrome Extension projects.
+- 📫 How to reach me: https://linktr.ee/rogerwindberg
