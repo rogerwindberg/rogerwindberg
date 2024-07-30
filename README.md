@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Roger Windberg</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogerwindberg&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer, focused on learning programming 
+- 🔥 Backend Developer, focused on learning programming to automate everything
 
-- 🔭 I’m currently working at [Getnet S.A.](https://site.getnet.com.br/)
+- 🔭 I’m currently working at [PagoNxt Global](https://www.pagonxt.com)
 
 - 👨‍💻 More at [linktree@rogerwindberg](https://linktr.ee/rogerwindberg)
 
